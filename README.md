@@ -56,17 +56,21 @@
 </p>
 
 <p align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=kiapelyn&show_icons=true&theme=rose_pine&hide_rank=false&count_private=true&include_all_commits=true" alt="GitHub Extended Stats"/>
-      </td>
-      <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=kiapelyn&theme=rose-pine" alt="GitHub Streak"/>
-      </td>
-    </tr>
-  </table>
+  <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
+    <img 
+      src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kiapelyn&theme=tokyonight" 
+      alt="GitHub Stats"
+      height="180"
+    />
+    <img 
+      src="https://github-readme-streak-stats.herokuapp.com/?user=kiapelyn&theme=rose-pine" 
+      alt="GitHub Streak"
+      height="180"
+    />
+  </div>
 </p>
+
+
 
 <p align="center">
   ───────────────────────────────
